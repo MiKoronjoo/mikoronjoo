@@ -6,7 +6,6 @@
 [![Telegram Badge](https://img.shields.io/badge/-Gmail-0088cc?style=flat-square&logo=Gmail&logoColor=white&color=red)](mailto:mikoronjoo@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/mikoronjoo)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/mikoronjoo)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/MiKoronjoo)
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikoronjoo&show_icons=true&line_height=40&theme=radical)
